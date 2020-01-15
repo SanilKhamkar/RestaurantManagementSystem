@@ -4,6 +4,8 @@ A Software Engineering Course Project
 
 The Title of the Project is Restaurant Management System. The main focus of the project was to implement a key feature and maintain a complete set of documentation which outlined the entire project.
 
+Programming Languages Used: C#, ASP.NET, SQL, HTML, CSS
+
 The Project Documentation includes 5 documents:
 
 1. Proposal 
