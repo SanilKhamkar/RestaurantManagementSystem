@@ -7,7 +7,7 @@ The Title of the Project is Restaurant Management System. The main focus of the 
 The Project Documentation includes 5 documents:
 
 1. Proposal 
-   - Provides a complete outline of the project with Functional Work Breakdown Structure (FWBS), Activity Graph, Project Schedule, The Cost      Estimation Model etc.
+  - Provides a complete outline of the project with Functional Work Breakdown Structure (FWBS), Activity Graph, Project Schedule, The Cost     Estimation Model etc.
    
  2. Requirement Documentation
    - Provides the Functional and Non-Funtional requirements for the project including mock ups for each functionality.
